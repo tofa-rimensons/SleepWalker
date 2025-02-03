@@ -1,3 +1,6 @@
 [submodule "huami-token"]
 	path = huami-token
 	url = https://github.com/argrento/huami-token
+[submodule "miband4"]
+	path = miband4
+	url = https://github.com/satcar77/miband4
